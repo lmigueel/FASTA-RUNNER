@@ -149,6 +149,7 @@ Quem consegue pontuar mais utilizando o Chr1 humano? 🧬
 
 </div>
 
+---
 <div align="center">
 
 *Feito para quem ama DNA e um bom desafio de plataforma.* 🧬🕹️
