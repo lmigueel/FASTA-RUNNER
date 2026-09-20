@@ -35,6 +35,8 @@ para cada uma delas**. Complete todas para ver a mensagem final:
 
 > **"Parabéns, Padawan da Bioinformática. Você chegou até o fim!"**
 
+![TELA DO JOGO](imagens/fasta-runner.png)
+
 ---
 
 ## 🕹️ Como jogar
