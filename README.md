@@ -44,7 +44,7 @@ para cada uma delas**. Complete todas para ver a mensagem final:
 ### 1. Instale as dependências
 
 ```bash
-pip install pygame
+pip install pygame-ce
 ```
 
 ### 2. Rode o jogo
